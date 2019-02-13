@@ -1,1 +1,1 @@
-# digit_recog_nn
+image_recog_nn
